@@ -1,0 +1,671 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"process",
+				"processFile"
+			],
+			[
+				"extrac",
+				"extraction"
+			],
+			[
+				"ex",
+				"Extracteur"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/synkx_000/Desktop/Licence Pro Flux Num/Estienne - Cours/Projets/Projet URLChecker/Urlchecker/GUIMainWindow.py",
+			"settings":
+			{
+				"buffer_size": 7510,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/synkx_000/Desktop/Licence Pro Flux Num/Estienne - Cours/Projets/Projet URLChecker/Urlchecker/GUIOpenFile.py",
+			"settings":
+			{
+				"buffer_size": 2515,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/synkx_000/Desktop/Licence Pro Flux Num/Estienne - Cours/Projets/Projet URLChecker/URLChecker/retestencore.py",
+			"settings":
+			{
+				"buffer_size": 1106,
+				"line_ending": "Windows",
+				"name": "# -*-coding:utf-8 -*-"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 226.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"package controle",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"side ",
+				"Side Bar: Enable Syncing"
+			],
+			[
+				"packag inst",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/synkx_000/Desktop/Licence Pro Flux Num/Estienne - Cours/Projets/Projet URLChecker",
+		"/C/Users/synkx_000/Desktop/Licence Pro Flux Num/Estienne - Cours/Projets/Projet URLChecker/URLChecker"
+	],
+	"file_history":
+	[
+		"/C/Users/synkx_000/Downloads/Microsoft.SkypeApp_kzf8qxf38zg5c!App/ActionsPanel.java",
+		"/C/Users/synkx_000/Desktop/Licence Pro Flux Num/Estienne - Cours/Projets/Projet URLChecker/Urlchecker/GUIMainWindow.py",
+		"/C/Users/synkx_000/Desktop/Licence Pro Flux Num/Estienne - Cours/Projets/Projet URLChecker/Urlchecker/GUIQt.py",
+		"/C/Users/synkx_000/Desktop/Licence Pro Flux Num/Estienne - Cours/Projets/Projet URLChecker/Urlchecker/GUI.py",
+		"/C/Users/synkx_000/Desktop/Licence Pro Flux Num/Estienne - Cours/Projets/Projet URLChecker/Urlchecker/GUItest1.py",
+		"/C/Users/synkx_000/Desktop/Licence Pro Flux Num/Estienne - Cours/Projets/Projet URLChecker/Urlchecker/urlcheckerhtml.py",
+		"/C/Users/synkx_000/Desktop/Licence Pro Flux Num/Estienne - Cours/Projets/Projet URLChecker/URLChecker/testUI.py",
+		"/C/Users/synkx_000/Desktop/Licence Pro Flux Num/Estienne - Cours/Projets/Projet URLChecker/Urlchecker/tests.py",
+		"/C/Users/synkx_000/Desktop/Licence Pro Flux Num/Estienne - Cours/Projets/Projet URLChecker/Urlchecker/test.py",
+		"/C/Users/synkx_000/Desktop/testetete.py",
+		"/C/Users/synkx_000/Desktop/test.py",
+		"/C/Users/synkx_000/Desktop/Test.ui",
+		"/C/Users/synkx_000/Desktop/rtetetetete.py",
+		"/C/Users/synkx_000/Desktop/Licence Pro Flux Num/Estienne - Cours/Projets/Projet URLChecker/Urlchecker/GUItest.py",
+		"/C/Users/synkx_000/Downloads/Microsoft.SkypeApp_kzf8qxf38zg5c!App/PyQTMinimal/PyQTMinimal/main.py",
+		"/C/Users/synkx_000/Downloads/Microsoft.SkypeApp_kzf8qxf38zg5c!App/PyQTMinimal/PyQTMinimal/fenPrincipale.py",
+		"/C/Users/synkx_000/Desktop/Licence Pro Flux Num/Estienne - Cours/Projets/Projet URLChecker/Urlchecker/urlchecker.py",
+		"/C/Users/synkx_000/Desktop/Licence Pro Flux Num/Estienne - Cours/Projets/Projet URLChecker/Urlchecker/urlcheckertest.py",
+		"/C/Users/synkx_000/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/synkx_000/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Python34/Lib/site-packages/PyQt5/QtWidgets.pyd",
+		"/C/Users/synkx_000/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/synkx_000/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/synkx_000/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/synkx_000/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/synkx_000/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/synkx_000/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/synkx_000/Desktop/Licence Pro Flux Num/Estienne - Cours/Projets/Projet URLChecker/Urlchecker/count_len_file.py",
+		"/C/Users/synkx_000/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/synkx_000/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/synkx_000/AppData/Roaming/Sublime Text 3/Packages/Python Flake8 Lint/Default (Windows).sublime-keymap",
+		"/C/Users/synkx_000/Pictures/Counter_Terrorists_Win_by_xG_Hopx.jpg",
+		"/C/wamp/www/Estienne_Boutique/Boutique_Estienne/Pages/Goodies.php",
+		"/C/Users/PC/Documents/Créations/Python/count_len_file.py",
+		"/C/Users/PC/Documents/Créations/Python/Urlextractor/urlextractorhtml.py",
+		"/C/Users/PC/Documents/Créations/Python/Urlextractor/urlextractor.py",
+		"/C/Users/PC/Documents/Créations/Python/Project Euler/PEPB2.py",
+		"/C/Users/PC/Documents/Créations/Python/Project Euler/PEPB1.py",
+		"/C/Users/PC/Documents/Créations/Python/Project Euler/PEPB3.py",
+		"/F/Users/PC/Documents/Créations/Web/Synkieds_Website/index.php",
+		"/F/Users/PC/Documents/Créations/Web/Synkieds_Website à jour/Website/Synkieds_website.sublime-project",
+		"/F/Users/PC/Documents/Créations/Prog/Python/Urlextractor/urlextractor.py",
+		"/F/Users/PC/Documents/Créations/Prog/Python/Urlextractor/urlextractorhtml.py",
+		"/C/wamp/www/Synkieds_Website/css/style.css",
+		"/C/wamp/www/Synkieds_Website/css/base.css",
+		"/C/wamp/www/Synkieds_Website/php/footer.php",
+		"/C/wamp/www/Synkieds_Website/php/header.php",
+		"/C/wamp/www/Synkieds_Website/index.php",
+		"/C/wamp/www/Synkieds_Website/php/login.php",
+		"/C/Users/synkx_000/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/C/wamp/bin/apache/apache2.4.9/conf/extra/httpd-vhosts.conf",
+		"/C/wamp/www/Synkieds_Website/hosts",
+		"/C/wamp/www/Synkieds_Website/php/bienvenue.php",
+		"/C/wamp/www/Synkieds_Website/Synkieds_Wesbite.sublime-project",
+		"/C/Users/synkx_000/AppData/Roaming/Sublime Text 3/Packages/View in Browser/Default (Windows).sublime-keymap",
+		"/C/Users/synkx_000/Desktop/Site/php/bienvenue.php",
+		"/C/Users/synkx_000/Desktop/Site/contenu/test.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"\"\"",
+			"btnLaunch",
+			"Example",
+			"ontrôler un fichier",
+			"+ ",
+			"fileMenu",
+			"StatusBar",
+			"statusBar",
+			"StatusBar",
+			"statusBar",
+			"StatusBar",
+			"statusBar",
+			"MenuBar",
+			"menubar",
+			"MenuBar",
+			"menuBar",
+			"initUI",
+			"closeEvent",
+			"keyPressEvent",
+			"btn",
+			"btnOpenFile",
+			"btn",
+			"btn1",
+			"setCentralWidget",
+			"showDialog",
+			"ialog",
+			"QtGui.",
+			"processFile",
+			"Example",
+			"ToolBar",
+			"toolbar",
+			"launchAction",
+			"openAction",
+			"launchAction",
+			"btn1",
+			"QtGui.",
+			"btn1",
+			"Center",
+			"center",
+			"Center",
+			"center",
+			"QWidget",
+			"_widget",
+			"__controls",
+			"formWidget",
+			"QtGui",
+			"myDialog",
+			"formWidget",
+			"apply",
+			"FormWidget",
+			"formWidget",
+			"openFile",
+			"Extracteur",
+			"extracteur",
+			"extractor",
+			"extracteur",
+			"Extracteur",
+			"QtCore.",
+			"QtGui.",
+			"main()",
+			"Main",
+			"main",
+			"btnExtract",
+			"bs",
+			"sp",
+			"s",
+			"bs",
+			"f",
+			"file",
+			")\n",
+			"self.toolbar = self.addToolBar('')\n        self.toolbar.addAction(exitAction)",
+			"exitAction",
+			"openFolder",
+			"OpenFolder",
+			"OpenFile",
+			"openFile",
+			"btn",
+			"Example",
+			"f8"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/synkx_000/Desktop/Licence Pro Flux Num/Estienne - Cours/Projets/Projet URLChecker/Urlchecker/GUIMainWindow.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1643,
+								1643
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (Flake8Lint) (SL).tmTheme",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2943.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/synkx_000/Desktop/Licence Pro Flux Num/Estienne - Cours/Projets/Projet URLChecker/Urlchecker/GUIOpenFile.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1109,
+								1109
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (Flake8Lint) (SL).tmTheme",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 924.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/synkx_000/Desktop/Licence Pro Flux Num/Estienne - Cours/Projets/Projet URLChecker/URLChecker/retestencore.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								164,
+								164
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "# -*-coding:utf-8 -*-",
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (Flake8Lint) (SL).tmTheme",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 8,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 78.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "URLChecker.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\wamp\\www\\Boutique_Estienne\\Project ST3\\Project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
